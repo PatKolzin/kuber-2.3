@@ -45,11 +45,11 @@
 
 Текст индексной страницы, написанной мной в ConfigMap и текст индексной страницы из контейнера пода одинаковы, следовательно она взята именно из содержимого ConfigMap.
 
-5. Ссылка на манифест [Deployment]()
+5. Ссылка на манифест [Deployment](https://github.com/PatKolzin/kuber-2.3/blob/main/src/deployment.yaml)
 
-   Ссылка на манифест [Service]()
+   Ссылка на манифест [Service](https://github.com/PatKolzin/kuber-2.3/blob/main/src/service.yaml)
    
-   Ссылка на манифест [ConfigMap]()
+   Ссылка на манифест [ConfigMap](https://github.com/PatKolzin/kuber-2.3/blob/main/src/configmap.yaml)
 
    ------
 
@@ -73,10 +73,10 @@
 
 ![image](https://github.com/user-attachments/assets/0ec26aef-2bf7-4bdf-b8e0-b19ff7ba19a0)
 
-5. Ссылка на манифест [Deployment]()
+5. Ссылка на манифест [Deployment](https://github.com/PatKolzin/kuber-2.3/blob/main/src/deployment-nginx.yaml)
 
-   Ссылка на манифест [Service]()
+   Ссылка на манифест [Service](https://github.com/PatKolzin/kuber-2.3/blob/main/src/service-nginx.yaml)
    
-   Ссылка на манифест [ConfigMap]()
+   Ссылка на манифест [ConfigMap](https://github.com/PatKolzin/kuber-2.3/blob/main/src/configmap-nginx.yaml)
 
-   Ссылка на манифест [Ingress]()
+   Ссылка на манифест [Ingress](https://github.com/PatKolzin/kuber-2.3/blob/main/src/ingress-nginx.yaml)
