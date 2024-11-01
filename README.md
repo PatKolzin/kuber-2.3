@@ -65,7 +65,9 @@
 
 ![image](https://github.com/user-attachments/assets/2823fade-ea6c-4e40-b288-1ae48ba8ccdc)
 
-4. Создаю Ingress и необходимый Service, подключаю к нему SSL. Проверю доступ к сайту по HTTPS:
+4. Создаю Ingress и необходимый Service, подключаю к нему SSL. Добавляю в /etc/hosts адрес сайта. Проверяю доступ к сайту по HTTPS:
+
+![image](https://github.com/user-attachments/assets/85d80e90-0554-4d73-9c92-eca1bdf3f8d9)
 
 ![image](https://github.com/user-attachments/assets/0a6e016b-56fa-485d-b892-e578042e98b8)
 
